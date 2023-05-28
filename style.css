@@ -69,7 +69,6 @@ main {
 .title {
   font-size: 36px;
   font-weight: 400;
-  border-bottom: 2px solid var(--primary);
   padding-bottom: 40px;
   padding-left: 20px;
 }
@@ -132,4 +131,10 @@ button {
 button:hover {
   background-color: var(--secondary);
   color: var(--primary);
+}
+
+hr {
+  color: var(--primary);
+  width: 90%;
+  margin: 0 auto;
 }

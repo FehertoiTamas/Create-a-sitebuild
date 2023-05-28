@@ -76,6 +76,7 @@ const Cardcomponent = (beers) => {
       <div class="card">
       <div class="circle">${card.id}</div>
         <p class="title">${card.title}</p>
+        <hr>
         <p class="sub">${card.sub}</p>
         <p class="text">${card.text}</p>
         <button>
