@@ -120,11 +120,15 @@ button {
 }
 
 .button-text {
+  font-size: 14px;
   margin-right: 50px;
+  font-family: 'Space Grotesk', sans-serif;
+
 }
 
 .arrow {
   margin-right: 10px;
+  font-size: 36px;
 }
 
 
